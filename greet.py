@@ -1,7 +1,7 @@
 import csv
 from datetime import datetime as dt
 from wish import wish
-from SendMail import SendMail
+from sendMail import sendMail
 
 class greet():
 
@@ -30,7 +30,7 @@ class greet():
                     total_years = current_year-doj.year
                     print(f'Sending the Anniversary mail to: {name}')
                     self.sending_mail(name, mail, 'Anniversary', total_years)
-    mails = SendMail()
+    mails = sendMail()
     def sending_mail(self, name, mail, greeting, years):
         wishes = wish(name, greeting, years)
         subject = wishes.get_subject()

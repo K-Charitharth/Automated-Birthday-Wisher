@@ -1,7 +1,7 @@
 import yagmail
 from properties import properties
 
-class SendMail():
+class sendMail():
 
     credential_path = './resources/credential.txt'
 
