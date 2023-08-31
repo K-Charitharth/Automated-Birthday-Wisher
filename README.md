@@ -32,8 +32,9 @@ The **Automated Birthday and Anniversary Wisher** is designed to streamline the 
 
 Feel free to explore the code and adapt it for your own use. If you have any questions or suggestions, please feel free to reach out to me!
 
-## Connect
+## Contributors
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/charitharth-kothakota-5b3661149/) and check out my other projects on [GitHub](https://github.com/K-Charitharth).
+- Kothakota Charitharth
+- Roddam Faizan
 
-Let's keep coding and creating together!
+Feel free to contribute, provide feedback, or report issues.
